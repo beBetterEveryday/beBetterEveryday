@@ -2,7 +2,7 @@
   <img src="assets/profile-hero.png" alt="Mobile, AI agents and continuous improvement" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Cheng Yue 👋</h1>
+<h1 align="center">Hi, I'm beBetterEveryday 👋</h1>
 
 <p align="center">
   <strong>Mobile × AI Product Engineer</strong><br />
